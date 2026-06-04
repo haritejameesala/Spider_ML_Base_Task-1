@@ -100,5 +100,5 @@ jupyter notebook Fashion_MNIST.ipynb
 
 ## Author
 
-**Hari Teja**  
+**Hari Teja Meesala**  
 B.Tech CSE, National Institute of Technology Tiruchirappalli
