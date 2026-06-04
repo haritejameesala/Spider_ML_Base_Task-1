@@ -83,13 +83,13 @@ An Autoencoder was implemented on the Fashion-MNIST dataset to:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/haritejameesala/SPML-Task1.git
+git clone https://github.com/haritejameesala/Spider_ML_Base_Task1.git
 ```
 
 2. Install dependencies
 
 ```bash
-pip install torch torchvision numpy pandas matplotlib
+pip install -r requirements.txt
 ```
 
 3. Open and run the notebook
